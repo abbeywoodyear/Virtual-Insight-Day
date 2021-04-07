@@ -1,5 +1,5 @@
 # Virtual-Insight-Day
-Beginner Python exercise for Virtual Insight Day 2021
+Beginner Python exercise for THG Virtual Insight Day 2021
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abbeywoodyear/Virtual-Insight-Day.git/HEAD)
 
